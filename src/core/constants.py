@@ -14,28 +14,28 @@ GAME_AUTHOR = "Александр Чернов"
 # ЦВЕТА (стиль Warhammer 40,000 — grimdark)
 # ============================================================
 # Фон
-COLOR_BG_DARK = "#0A0A0A"       # Глубокий чёрный
-COLOR_BG_PANEL = "#1A1A1A"      # Тёмно-серый
-COLOR_BG_CARD = "#2A2A2A"       # Серый
+COLOR_BG_DARK = "#0A0A0A"  # Глубокий чёрный
+COLOR_BG_PANEL = "#1A1A1A"  # Тёмно-серый
+COLOR_BG_CARD = "#2A2A2A"  # Серый
 
 # Текст
-COLOR_TEXT_MAIN = "#E0E0E0"     # Светло-серый
-COLOR_TEXT_DIM = "#808080"      # Тусклый
-COLOR_TEXT_ACCENT = "#FFD700"   # Золото (Империум)
+COLOR_TEXT_MAIN = "#E0E0E0"  # Светло-серый
+COLOR_TEXT_DIM = "#808080"  # Тусклый
+COLOR_TEXT_ACCENT = "#FFD700"  # Золото (Империум)
 
 # Фракции
-COLOR_IMPERIUM = "#FFD700"      # Золото (Аквила)
-COLOR_CHAOS = "#8B0000"         # Тёмно-красный (Хаос)
-COLOR_MECHANICUS = "#B22222"    # Красный (Механикус)
-COLOR_INQUISITION = "#4B0082"   # Индиго (Инквизиция)
-COLOR_XENOS = "#00FF7F"         # Весенне-зелёный (Ксеносы)
-COLOR_NEUTRAL = "#A9A9A9"       # Серый (Нейтралы)
+COLOR_IMPERIUM = "#FFD700"  # Золото (Аквила)
+COLOR_CHAOS = "#8B0000"  # Тёмно-красный (Хаос)
+COLOR_MECHANICUS = "#B22222"  # Красный (Механикус)
+COLOR_INQUISITION = "#4B0082"  # Индиго (Инквизиция)
+COLOR_XENOS = "#00FF7F"  # Весенне-зелёный (Ксеносы)
+COLOR_NEUTRAL = "#A9A9A9"  # Серый (Нейтралы)
 
 # Статусы
-COLOR_SUCCESS = "#228B22"       # Лесной зелёный
-COLOR_WARNING = "#FF8C00"       # Тёмно-оранжевый
-COLOR_DANGER = "#DC143C"        # Малиновый
-COLOR_CORRUPTION = "#800080"    # Пурпурный (Порча)
+COLOR_SUCCESS = "#228B22"  # Лесной зелёный
+COLOR_WARNING = "#FF8C00"  # Тёмно-оранжевый
+COLOR_DANGER = "#DC143C"  # Малиновый
+COLOR_CORRUPTION = "#800080"  # Пурпурный (Порча)
 
 # ============================================================
 # НАСТРОЙКИ ОКНА
@@ -55,6 +55,6 @@ FONTS_DIR = f"{ASSETS_DIR}/fonts"
 # ============================================================
 # ИГРОВЫЕ КОНСТАНТЫ
 # ============================================================
-MAX_MARKS = 100          # Максимум пассивных меток
-MAX_CORRUPTION = 100     # Максимум порчи
-SAVE_DIR = "saves"       # Папка для сохранений
+MAX_MARKS = 100  # Максимум пассивных меток
+MAX_CORRUPTION = 100  # Максимум порчи
+SAVE_DIR = "saves"  # Папка для сохранений
